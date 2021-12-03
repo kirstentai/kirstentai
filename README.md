@@ -7,4 +7,4 @@ I'm a final year Bachelor of Data Science student interested in software enginee
 
 - I deployed a [REST API](https://github.com/kirstentai/flask-heroku-restapi) to Heroku and built it with Python and Flask. 🌶
 
-- I'm currently working on [Seed Speculator](https://github.com/kirstentai/seed-speculator), an app that takes a startup PDF pitch deck and predicts amount raised. 💰
+- I'm currently working on [Seed Speculator](https://github.com/kirstentai/seed-speculator), an app that takes a startup pitch deck and predicts amount raised. 💰
