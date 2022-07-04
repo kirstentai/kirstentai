@@ -1,6 +1,8 @@
 ### Hello, I'm Kirsten. 👋
 
-I'm a final year Bachelor of Data Science student interested in software engineering and building ML products. Early 2021, I was a data product intern for First Circle, where I led and built an OCR product to help approve loans within a day by reducing document processing time. I also conducted sentiment analysis on Zendesk customer data to help Sales increase efficacy.
+I'm a final year Bachelor of Data Science student interested in data-driven decision making.
+Currently a data scientist at [ARCx DAO](https://arcx.money/).
+Early 2021, I was a data product intern for First Circle, where I led and built an OCR product to help approve loans within a day by reducing document processing time. I also conducted sentiment analysis on Zendesk customer data to help Sales increase efficacy.
 
 
 ### In here you'll find projects I've worked on for fun. 👩‍💻
