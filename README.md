@@ -1,6 +1,7 @@
 ### Hello, I'm Kirsten. 👋
 
 Ex- data scientist at [ARCx DAO](https://arcx.money/)
+
 Bachelor of Data Science graduate
 
 
